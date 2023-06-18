@@ -97,32 +97,7 @@
         "html":"HTML",
         "CSS":"CSS"
       }
-      ,
-      {
-        "title": "Agency",
-        "img": "https://agency-templeate.netlify.app/img/header-bg.442d66ba.jpg",
-        "demo":"https://agency-templeate.netlify.app/",
-        "repo":"https://github.com/ABDALLAHMETWALLY250/agency",
-        "views":10,
-        "html":"HTML",
-        "CSS":"CSS",
-        "JS":"JS",
-        "BootStrap":"BootStrap",
-        "Vue":"Vue"
-      }
-      ,
-      {
-        "title": "Convid",
-        "img": "https://convid.netlify.app/images/banner-img.png",
-        "demo":"https://convid.netlify.app/",
-        "repo":"https://github.com/ABDALLAHMETWALLY250/gp-template",
-        "views":10,
-        "html":"HTML",
-        "CSS":"CSS",
-        "JS":"JS",
-        "BootStrap":"BootStrap",
-        "Vue":"Vue"
-      }
+      
 
     ]
   }
